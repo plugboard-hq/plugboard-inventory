@@ -1,7 +1,7 @@
 ---
 name: inventory
 title: Inventory
-source: https://github.com/wrabit/plugboard-inventory
+source: https://github.com/plugboard-hq/plugboard-inventory
 routing_description: >
   Stock questions about the sales warehouse: what is in stock, what is below its reorder
   point, how much of a product is on hand, what needs reordering. Use for 'stock',

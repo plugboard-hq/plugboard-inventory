@@ -1,6 +1,6 @@
 # plugboard-inventory
 
-A skill agent for [Plugboard](https://github.com/wrabit/plugboard): stock questions over
+A skill agent for [Plugboard](https://github.com/plugboard-hq/plugboard): stock questions over
 the sales warehouse. No code. `SKILL.md` is the whole agent: frontmatter for the manifest
 (name, routing description, the capabilities it takes and their settings, example prompts)
 and the persona as the body. It takes `database_tools` and `ask_user` from the host.
